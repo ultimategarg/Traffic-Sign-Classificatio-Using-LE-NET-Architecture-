@@ -64,3 +64,5 @@
 
 - STEP 6: FULLY CONNECTED LAYER
     - Layer 5: Fully Connected layer with Input = 84 and Output = 43
+   
+### You can download the dataset from [Click here](https://drive.google.com/open?id=16HHm59c2kukqpSCxKO5dRCFpq85Nsgf6)
