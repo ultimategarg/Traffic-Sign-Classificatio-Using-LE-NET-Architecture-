@@ -30,7 +30,9 @@
     
     ![image](https://github.com/ultimategarg/Traffic-Sign-Classification-Using-LE-NET-Architecture/blob/master/LE-NET.JPG)
        
-### The model consists of the following layers: 
+### The model consists of the following layers:
+
+Steps Used are:
 
 - STEP 1: THE FIRST CONVOLUTIONAL LAYER #1
     - Input = 32x32x1
